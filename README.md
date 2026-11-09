@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi there, I'm Aspiring Blockchain Developer 
 
-<!--
-**samuele-cabras-web3/samuele-cabras-web3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Driven by a strong interest in decentralized networks, cryptography, and smart contract development. I am currently focusing on mastery python programming, software engineering principles, and core blockchain architecture.
 
-Here are some ideas to get you started:
+## 🎯 Current Focus & Learning Path
+- **Languages:** Python (Core Concepts & Fundamentals).
+- **Next Steps:** Transitioning to JavaScript (Web3 basics) ➡️ Solidity via CryptoZombies ➡️ Etherum Ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## 🛠️ Tech Stack & Tools
+ -**Programming:** Python.
+-**Tools & Workflow:** GitHub, Vs Code.
+
+## 📈 Goals
+My long-term goal is to contribute to open-source Web3 projects and partecipate in the US tech and blockchain ecosystem.
+I'm dedicated to writing clean, well-documented, and efficient code.
+  
