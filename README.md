@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Aspiring Blockchain Developer 
 
-Learning and buildig every single day. 🚀
+Learning and building every single day. 🚀
 
 Driven by a strong interest in decentralized networks, cryptography, and smart contract development. I am currently focusing on mastery python programming, software engineering principles, and core blockchain architecture.
 
