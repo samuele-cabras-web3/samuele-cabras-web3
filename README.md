@@ -1,5 +1,7 @@
 ## 👋 Hi there, I'm Aspiring Blockchain Developer 
 
+Learning and buildig every single day. 🚀
+
 Driven by a strong interest in decentralized networks, cryptography, and smart contract development. I am currently focusing on mastery python programming, software engineering principles, and core blockchain architecture.
 
 ## 🎯 Current Focus & Learning Path
@@ -11,6 +13,6 @@ Driven by a strong interest in decentralized networks, cryptography, and smart c
 -**Tools & Workflow:** GitHub, Vs Code.
 
 ## 📈 Goals
-My long-term goal is to contribute to open-source Web3 projects and partecipate in the US tech and blockchain ecosystem.
+My long-term goal is to contribute to open-source Web3 projects and participate in the US tech and blockchain ecosystem.
 I'm dedicated to writing clean, well-documented, and efficient code.
   
